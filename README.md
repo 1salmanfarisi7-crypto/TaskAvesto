@@ -23,7 +23,7 @@ git clone <repository-url>
 ### 2. Перейти в папку проекта
 
 ```bash
-cd task-manager
+cd test
 ```
 
 ### 3. Установить зависимости
